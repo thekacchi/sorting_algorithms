@@ -1,6 +1,6 @@
 #include "sort.h"
 
-/** 
+/**
  * lomuto_partition - implements the lomuto partition scheme
  *
  * @array: the array to ge partitioned
@@ -66,7 +66,7 @@ void quicksort(int *array, int low, int high, size_t size)
 
 /**
  * quick_sort - Sorts an array of integers ising Quick Sort (LP)
- * 
+ *
  * @array: The array to be sorted
  * @size: Number of elements in the array
  */
